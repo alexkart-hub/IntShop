@@ -8,4 +8,6 @@ require_once LIBS.'/functions.php';
 
 $app = new App;
 $app::$app -> setProperty('Sancho','Panso');
-debug($app::$app->getProperties());
+// debug($app::$app->getProperties());
+
+// throw new Exception('Страница не найдена',500);
