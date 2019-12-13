@@ -1,0 +1,56 @@
+[2019-12-13 04:28:41] Текст ошибки: Call to undefined function ishop\matchRoute() | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 27
+-----------------
+[2019-12-13 05:04:17] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 05:05:10] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 05:06:20] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 05:07:32] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:11:44] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:14:17] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:15:14] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:16:33] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:16:46] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:17:13] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:17:42] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:17:52] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 35
+-----------------
+[2019-12-13 06:18:41] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:19:21] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:19:49] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:20:30] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:22:23] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:23:18] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:25:08] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:26:31] Текст ошибки: Class 'app\controllers\MainController' not found | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 32
+-----------------
+[2019-12-13 06:27:45] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 40
+-----------------
+[2019-12-13 06:28:44] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 40
+-----------------
+[2019-12-13 06:29:59] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 37
+-----------------
+[2019-12-13 06:34:04] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 40
+-----------------
+[2019-12-13 06:34:28] Текст ошибки: syntax error, unexpected '}' | Файл: D:\OSPanel\domains\IntShop\app\controllers\PageController.php | Строка: 7
+-----------------
+[2019-12-13 06:34:43] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 37
+-----------------
+[2019-12-13 06:35:52] Текст ошибки: Метод app\controllers\PageController::viewAction не найден | Файл: D:\OSPanel\domains\IntShop\vendor\ishop\core\Router.php | Строка: 37
+-----------------
