@@ -1,0 +1,1 @@
+<p>Это страница page/index.php</p>

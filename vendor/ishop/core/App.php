@@ -15,6 +15,7 @@ class App
        $this->getParams();
        new ErrorHandler();
        Router::dispatch($query);
+       
     }
 
     protected function getParams()

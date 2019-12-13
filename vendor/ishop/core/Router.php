@@ -26,13 +26,14 @@ class Router
 
     public static function dispatch($url)
     {
-        if (self::matchRoute($url)) {
+        if (self::matchRoute(strtolower($url))) {
             $controller ='app\controllers\\' . self::$route['prefix'] . self::$route['controller'] . 'Controller';
             if(class_exists($controller)){
                 $controllerObjekt = new $controller(self::$route);
                 $action = self::lowerCamelCase(self::$route['action']) . 'Action';
                 if(method_exists($controllerObjekt, $action)){
                     $controllerObjekt -> $action();
+                    $controllerObjekt -> getView();
                 } else {
                     throw new Exception("Метод $controller::$action не найден",404);
                 }

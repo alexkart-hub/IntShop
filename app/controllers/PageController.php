@@ -1,11 +1,12 @@
 <?php 
+
 namespace app\controllers;
 
-class PageController
+class PageController extends AppController 
 {
     public function indexAction()
     {
-        echo __METHOD__;
+        $this->setMeta('Страница Page' ,'Описание страницы Page - indexAction','Ключевые слова для Page - indexAction');
     } 
     public function viewAction()
     {
